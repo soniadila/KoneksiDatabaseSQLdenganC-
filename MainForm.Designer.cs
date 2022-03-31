@@ -93,12 +93,12 @@ namespace tubes_LabSMDB
 			// 
 			this.label1.Font = new System.Drawing.Font("Comic Sans MS", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.label1.ForeColor = System.Drawing.SystemColors.ActiveCaption;
-			this.label1.Location = new System.Drawing.Point(215, 16);
+			this.label1.Location = new System.Drawing.Point(178, 14);
 			this.label1.Name = "label1";
-			this.label1.Size = new System.Drawing.Size(320, 46);
+			this.label1.Size = new System.Drawing.Size(400, 44);
 			this.label1.TabIndex = 1;
-			this.label1.Text = "TUBES LAB SMDB";
-			this.label1.Click += new System.EventHandler(this.Label1Click);
+			this.label1.Text = "UTS Pemograman Visual";
+			//this.label1.Click += new System.EventHandler(this.Label1Click);
 			// 
 			// panel3
 			// 
@@ -130,7 +130,6 @@ namespace tubes_LabSMDB
 			this.label9.Size = new System.Drawing.Size(147, 50);
 			this.label9.TabIndex = 1;
 			this.label9.Text = "Button :";
-			//this.label9.Click += new System.EventHandler(this.Label9Click);
 			// 
 			// panel5
 			// 

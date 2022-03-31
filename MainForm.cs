@@ -111,10 +111,10 @@ namespace tubes_LabSMDB
 			//
 		}
 		
-		void Label1Click(object sender, EventArgs e)
-		{
+		//void Label1Click(object sender, EventArgs e)
+		//{
 			
-		}
+		//}
 		
 		void Button1Click(object sender, EventArgs e)
 		{
